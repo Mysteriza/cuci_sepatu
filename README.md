@@ -1,6 +1,6 @@
-<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LANDRY </h1>
+<h1> LANGKAH DAN CARA INSTALASI WEB RUMAH LAUNDRY </h1>
 
-- setelah download. extract file zip yang sudah didownload. masukkan kedalam satu folder. dan beri nama rumah_laundry.
+- setelah download. extract file zip yang sudah didownload. masukkan ke dalam satu folder. dan beri nama rumah_laundry.
 - copy atau cut folder rumah_laundry ke xampp/htdocs/ kemudian paste.
 
 - langkah instalasi
@@ -15,3 +15,5 @@
 8. Terakhir, login terlebih dahulu isi username dan password:
    username: admin
    password: admin
+   
+   Source: https://sharecodingan.blogspot.com/2023/03/aplikasi-laundry-berbasis-web.html

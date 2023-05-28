@@ -13,7 +13,7 @@
 				<div class="selamat-datang">
 					<div class="col-header">
 						<p class="judul-sm">Selamat Datang <span><?= ucfirst($_SESSION['master']) ?></span></p>
-						<h2 class="judul-md">Dashboard</h2>
+						<h2 class="judul-md">Halaman Admin</h2>
 					</div>
 
 					<div class="col-header txt-right">

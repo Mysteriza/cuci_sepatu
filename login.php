@@ -88,7 +88,7 @@
 			<div class="col box__right">
 				<div class="box__right-content">
 					<div class="text__right">
-						<h1>Admin Laundry</h1>
+						<h1>Laundry Store</h1>
 					</div>
 
 					<img src=" <?=url('_assets/img/orang.png')?>" alt="" class="box-img-orang">

@@ -1,18 +1,5 @@
 <?php require_once('_header.php') ?>
 
-   <div class="video-btn">
-      <a href="#overlay">
-         <img src="<?=url('_assets/img/play.svg')?>" alt="play icon">
-         <p>Company Video</p>
-      </a>
-   </div>
-
-   <div class="overlay video-play" id="overlay"> 
-      <a href="#">&times;</a>
-      <div class="konten-video">
-      <iframe width="100%" height="500" src="https://www.youtube.com/embed/bIvuyLvkIC0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-      </div>
-   </div>
    <div id="about" class="main-content">
       <div class="container">
          <div class="baris">

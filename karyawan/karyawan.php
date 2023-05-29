@@ -7,7 +7,7 @@
 			<div class="baris">
 				<div class="selamat-datang">
 					<div class="col-header">
-						<h2 class="judul-md">Management Karyawan</h2>
+						<h2 class="judul-md">Manejemen Karyawan</h2>
 					</div>
 
 					<div class="col-header txt-right">

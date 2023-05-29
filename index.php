@@ -17,7 +17,7 @@
 					</div>
 
 					<div class="col-header txt-right">
-						<a href="<?=url('order/order.php')?>" class="btn-lg bg-primary">+ Order Baru</a>
+						<a href="<?=url('order/order.php')?>" class="btn-lg bg-primary">+ Cucian Baru</a>
 					</div>	
 				</div>
 			</div>

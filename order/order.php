@@ -7,7 +7,7 @@
                <div class="card">
                   <div class="card-title card-flex">
                      <div class="card-col">
-                        <h2>Tambah Order Baru</h2>	
+                        <h2>Tambah Cucian Baru</h2>	
                      </div>
                      
                      <div class="card-col txt-right">

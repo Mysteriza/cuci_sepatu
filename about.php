@@ -22,11 +22,11 @@
                      <div class="card-flex-column">
                         <div class="about_header">
                            <img src="<?=url('_assets/img/logo/logo.png')?>" alt="Logo rumah laundry" width="220">
-                           <p>Jasa laundry tercepat dan termurah se-priangan timur.</p>
+                           <p>Jasa laundry tercepat dan termurah se-Bandung.</p>
                         </div>
                         <div class="about_us">
                            <h2>- Tentang Kami -</h2>
-                           <p>Rumah Laundry UBSI merupakan suatu pelayanan di bidang jasa yang menggunakan media online sebagai Platform untuk memudahkan pelanggan menemukan jasa laundry yang cepat dan mudah. Sebagaimana kita ketahui bahwasannya kemudahan mendapatkan berbagai macam jasa pada era sekarang sangatlah diperlukan, selain mudah dan cepat, kami menyediakan berbagai macam paket laundry yang sesuai dengan budget.</p>
+                           <p>Rumah Laundry UBSI merupakan suatu pelayanan di bidang jasa yang menggunakan media online sebagai Platform untuk memudahkan pelanggan menemukan jasa laundry yang cepat dan mudah.</p>
                         </div>
                      </div>
                   </div>

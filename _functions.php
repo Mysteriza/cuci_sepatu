@@ -6,7 +6,7 @@ session_start();
 $host	= 'localhost';
 $user = 'root';
 $pass	= '';
-$db	= 'laundry_app';
+$db	= 'cuci_web';
 
 // Koneksi ke Database
 $koneksi = mysqli_connect($host,$user,$pass,$db);

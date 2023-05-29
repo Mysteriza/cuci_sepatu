@@ -61,7 +61,7 @@
 					<img src="<?= url('_assets/img/logo/logo.png') ?>" alt="">
 				</div>
 				<div class="box__left-title">
-					<h4>Login untuk Admin</h4>
+					<h4>Login Admin</h4>
 				</div>
 
 				<div class="box__left-form">
